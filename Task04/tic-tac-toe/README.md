@@ -83,7 +83,7 @@
    - Или если ваш пакет опубликован на Packagist, установите его глобально:
 
    ```bash
-   composer global require DenisBiushkin/tic-tac-toe
+   composer global require KirillZharkov/tic-tac-toe
    ```
 
    - И затем выполните команду:
